@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "i": "^0.3.7",
+    "mongoose": "^6.2.4"
+  },
+  "scripts": {
+    "start": "node 1index.js",
+    "file1": "node 1index.js",
+    "file2": "node 2index.js"
+  }
+}
